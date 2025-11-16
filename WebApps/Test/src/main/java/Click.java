@@ -20,7 +20,7 @@ public class Click extends HttpServlet {
         response.setContentType("text/html;charset=UTF-8");
         try (PrintWriter out = response.getWriter()) {
             out.write("<h1>Click!</h1>");
-            out.write("<form action=\"ClickerServlet\" method=\"POST\">\n" + "    <button type=\"submit\" name=\"action\" value=\"click\">Click!</button>\n" +"</form>");
+           
         }
     }
 
