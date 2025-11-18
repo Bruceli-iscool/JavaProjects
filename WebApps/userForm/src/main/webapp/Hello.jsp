@@ -1,9 +1,3 @@
-<%-- 
-    Document   : Hello
-    Created on : Nov 17, 2025, 3:54:08 PM
-    Author     : bruceli
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
